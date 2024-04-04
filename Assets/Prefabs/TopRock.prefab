@@ -12,7 +12,6 @@ GameObject:
   - component: {fileID: 6302803411539231188}
   - component: {fileID: 462531849172606747}
   - component: {fileID: 3468237653771576372}
-  - component: {fileID: 1942999603745078170}
   m_Layer: 0
   m_Name: TopRock
   m_TagString: Untagged
@@ -173,15 +172,3 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _direction: {x: -1, y: 0}
   _displacementSpeed: 3
---- !u!114 &1942999603745078170
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2441028125726398853}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8e67c56c6e6725741a24fcc502f9a406, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 

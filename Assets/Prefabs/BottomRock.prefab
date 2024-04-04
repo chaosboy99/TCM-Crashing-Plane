@@ -12,7 +12,6 @@ GameObject:
   - component: {fileID: 8516070375526580284}
   - component: {fileID: 5648179298580652867}
   - component: {fileID: 70406585079557865}
-  - component: {fileID: 6472798604120028939}
   m_Layer: 0
   m_Name: BottomRock
   m_TagString: Untagged
@@ -175,15 +174,3 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _direction: {x: -1, y: 0}
   _displacementSpeed: 3
---- !u!114 &6472798604120028939
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5159174393068658102}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8e67c56c6e6725741a24fcc502f9a406, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
